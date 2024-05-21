@@ -1,4 +1,4 @@
-# langchain-RAG
+# Information Retrieval with RAG
 Install Dependencies
 ```python
 pip install -r requirements.txt
